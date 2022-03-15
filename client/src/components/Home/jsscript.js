@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
 // Transition effect for navbar 
 $(window).scroll(function() {
